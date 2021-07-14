@@ -1,0 +1,10 @@
+.locations {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
+
+.location {
+    margin: 0.5rem 1rem;
+    flex-basis: 25%;
+}

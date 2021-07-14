@@ -1,0 +1,12 @@
+.maintenance
+{
+    display: flex;
+    justify-content: flex-end;
+    flex-flow: row;
+
+}
+
+.maintenance h2
+{
+    vertical-align: top;
+}

@@ -1,0 +1,29 @@
+@import url(fishes.css);
+@import url(locations.css);
+@import url(maintenance.css);
+
+body {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 1.25rem;
+}
+
+img {
+    max-height: 7rem;
+}
+
+.bodyheader {
+    text-align: center;
+}
+
+
+.container {
+    display: flex;
+}
+
+.flex-container-left {
+    flex: 3;
+}
+
+.tips {
+    flex: 1;
+}

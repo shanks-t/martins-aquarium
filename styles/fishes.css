@@ -1,0 +1,11 @@
+.fishes {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
+
+.fish {
+    margin: 0.5rem 1rem;
+    flex-basis: 25%;
+}
+
